@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Learning Management System (LMS)
 
 A modern, interactive frontend for an AI-based Learning Management System built with React.js and Tailwind CSS.
@@ -105,3 +106,6 @@ All data is simulated using mock functions in `src/data/mockData.js`. AI respons
 
 This project is for educational purposes.
 
+=======
+# AI_LMS
+>>>>>>> c2c63f2d3413b33ce7608f6b0d7bcc00ea50db9e
